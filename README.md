@@ -8,10 +8,3 @@
 | [AI 求职反馈助手产品设计](projects/02-ai-career-assistant/README.md) | AI 产品、工作流、模型边界 | [PRD](projects/02-ai-career-assistant/PRD.md) / [验证](projects/02-ai-career-assistant/validation.md) | [打开 Demo](projects/02-ai-career-assistant/demo.html) |
 | [校园活动平台用户增长与转化优化](projects/03-campus-growth/README.md) | 增长、漏斗、留存 | [PRD](projects/03-campus-growth/PRD.md) / [验证](projects/03-campus-growth/validation.md) | [打开 Demo](projects/03-campus-growth/demo.html) |
 
-## 使用方式
-
-1. 将整个文件夹上传到 GitHub / GitLab / Gitee。
-2. 开启 GitHub Pages 或 GitLab Pages，即可获得个人作品集网址。
-3. 将仓库首页链接填入申请表“作品链接”。
-
-> 说明：项目数据为作品集演示口径，正式投递时应替换为可核验的真实数据。
